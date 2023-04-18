@@ -1,2 +1,14 @@
 ||open.e.kuaishou.com^
 ||open.e.kuaishou.cn^
+||promotion-partner.kuaishou.com^
+||static.yximgs.com^
+||log-sdk.ksapisrv.com^
+||ulog-sdk.gifshow.com^
+||s2-11175.kwimgs.com^
+||tx-ad.a.yximgs.com^
+||ali-ad.a.yximgs.com^
+||p1-lm.adkwai.com^
+||p1-lm.adukwai.com^
+||v2-lm.adukwai.com^
+||v1-lm.adukwai.com^
+||w1.kskwai.com^
