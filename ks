@@ -12,3 +12,4 @@
 ||v2-lm.adukwai.com^
 ||v1-lm.adukwai.com^
 ||w1.kskwai.com^
+||zt.gifshow.com^
